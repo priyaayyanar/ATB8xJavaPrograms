@@ -31,6 +31,8 @@ public class Task3 {
         System.out.print("Enter Side 3 : " );
         double side3 = sc.nextDouble();
 
+        if( side1 >= 1 && side2 >= 1 && side3 >= 1 )
+
         if ( side1==side2 && side1==side3 ) {
             System.out.println("Equilateral Triangle");
         }
