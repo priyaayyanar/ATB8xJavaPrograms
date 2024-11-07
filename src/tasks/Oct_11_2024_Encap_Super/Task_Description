@@ -1,0 +1,12 @@
+-> Create a Runner - APIAutomation (HTTP Method)
+-> method - string, name, id (int)
+-> BaseTest API
+    performGET()
+    performPOST()
+    performPATCH()
+    performPUT()
+    performDELETE()
+-> TestCaseAPI
+-> Ecap, Poly, Single, Dynamic, Super, this.
+
+Upload them to Github.com
