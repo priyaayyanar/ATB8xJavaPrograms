@@ -7,8 +7,8 @@ public class PrintMyBook extends Book{
 
     @Override
     void getDetails() {
-        System.out.println(name);
-        System.out.println(author);
-        System.out.println(price);
+        System.out.println(name+ ","+author+","+price);
+//        System.out.println(author);
+//        System.out.println(price);
     }
 }
