@@ -1,4 +1,4 @@
-package tasks.oct_25_2024;
+package tasks.oct_25_2024_Arrays;
 
 import java.util.Scanner;
 
